@@ -1,2 +1,2 @@
 # Auto detect text files and perform LF normalization
-* .java=Android
+*.js linguist-language=Android
